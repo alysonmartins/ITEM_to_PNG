@@ -1,0 +1,187 @@
+fileFormatVersion: 2
+guid: 220a97ea3d0ff074fac0317dbb682a90
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: shield_01
+    100004: shield_rnd_01
+    100006: shield_rnd_02
+    100008: shield_01_LOD0
+    100010: shield_01_LOD0 1
+    100012: shield_01_LOD1
+    100014: shield_01_LOD1 1
+    100016: shield_02_LOD0
+    100018: shield_02_LOD1
+    100020: shield_03_LOD0
+    100022: shield_03_LOD1
+    100024: shieldround_metal_LOD0
+    100026: shieldround_metal_LOD1
+    100028: shieldround_wood_LOD0
+    100030: shieldround_wood_LOD1
+    400000: //RootNode
+    400002: shield_01
+    400004: shield_rnd_01
+    400006: shield_rnd_02
+    400008: shield_01_LOD0
+    400010: shield_01_LOD0 1
+    400012: shield_01_LOD1
+    400014: shield_01_LOD1 1
+    400016: shield_02_LOD0
+    400018: shield_02_LOD1
+    400020: shield_03_LOD0
+    400022: shield_03_LOD1
+    400024: shieldround_metal_LOD0
+    400026: shieldround_metal_LOD1
+    400028: shieldround_wood_LOD0
+    400030: shieldround_wood_LOD1
+    2300000: shield_01
+    2300002: shield_rnd_01
+    2300004: shield_rnd_02
+    2300006: shield_01_LOD0
+    2300008: shield_01_LOD0 1
+    2300010: shield_01_LOD1
+    2300012: shield_01_LOD1 1
+    2300014: shield_02_LOD0
+    2300016: shield_02_LOD1
+    2300018: shield_03_LOD0
+    2300020: shield_03_LOD1
+    2300022: shieldround_metal_LOD0
+    2300024: shieldround_metal_LOD1
+    2300026: shieldround_wood_LOD0
+    2300028: shieldround_wood_LOD1
+    3300000: shield_01
+    3300002: shield_rnd_01
+    3300004: shield_rnd_02
+    3300006: shield_01_LOD0
+    3300008: shield_01_LOD0 1
+    3300010: shield_01_LOD1
+    3300012: shield_01_LOD1 1
+    3300014: shield_02_LOD0
+    3300016: shield_02_LOD1
+    3300018: shield_03_LOD0
+    3300020: shield_03_LOD1
+    3300022: shieldround_metal_LOD0
+    3300024: shieldround_metal_LOD1
+    3300026: shieldround_wood_LOD0
+    3300028: shieldround_wood_LOD1
+    4300000: shield_rnd_02
+    4300002: shield_rnd_01
+    4300004: shield_01
+    4300006: shield_01_LOD1
+    4300008: shield_01_LOD1
+    4300010: shield_01_LOD0
+    4300012: shield_01_LOD0
+    4300014: shield_02_LOD0
+    4300016: shield_02_LOD1
+    4300018: shield_03_LOD1
+    4300020: shield_03_LOD0
+    4300022: shieldround_metal_LOD1
+    4300024: shieldround_metal_LOD0
+    4300026: shieldround_wood_LOD0
+    4300028: shieldround_wood_LOD1
+    9500000: //RootNode
+    20500000: //RootNode
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Shield_metal
+    second: {fileID: 2100000, guid: 58f126eba5014d949830588357bb1dc5, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Shield_rnd_metal
+    second: {fileID: 2100000, guid: f1ed491394d02634fb2f1fbe790c5c0c, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Shield_rnd_wood
+    second: {fileID: 2100000, guid: ef5725d668fa7df4f85dc8e76e29d542, type: 2}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages:
+    - 0.25
+    - 0.01
+    globalScale: 0.01
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    importVisibility: 0
+    importBlendShapes: 1
+    importCameras: 0
+    importLights: 0
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 0
+    previousCalculatedGlobalScale: 1
+    hasPreviousCalculatedGlobalScale: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 4
+    normalCalculationMode: 0
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 1
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
